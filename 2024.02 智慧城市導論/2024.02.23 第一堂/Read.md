@@ -21,7 +21,12 @@
 |2 | 期中考 | 30% | 繳交線上報告 |
 |3 | 期末考 | 50% | 分組報告 |
 
-## 學期成績
+## 老師Line
+<img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/2024.02.23%20%E7%AC%AC%E4%B8%80%E5%A0%82/tsai.jpg" width="200" height="200">
+
+
+## 任職公司介紹
+[![中鋼保全](https://img.youtube.com/vi/Wb9UKC7_360/0.jpg)](https://www.youtube.com/watch?v=Wb9UKC7_360)
 
 
 
