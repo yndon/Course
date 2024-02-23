@@ -1,6 +1,6 @@
 
 
-<img src="https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png" width="300" height="80">
+<img src="https://github.com/derricktsai0904/Course/blob/main/2024.02%20%E6%99%BA%E6%85%A7%E5%9F%8E%E5%B8%82%E5%B0%8E%E8%AB%96/Course.png" width="200" height="200">
 
 課程名稱 : 智慧城市導論 <br>
 任教老師 : 蔡正雄 ( 以及 江柏叡 教授)
