@@ -1,5 +1,10 @@
 
 
+<img src="https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png" width="300" height="80">
+
+課程名稱 : 智慧城市導論 <br>
+任教老師 : 蔡正雄 ( 以及 江柏叡 教授)
+
 |週次或項目 Week or Items	| 中文授課內容 Chinese Course Content | 英文授課內容 English Course Content	| 分配節次 Assigned Classes	| 備註 Note |
 |------------------------:|------------------------------------|------------------------------------|---------------------------|----------|
 |第一週 | 教學課程說明：課程內容簡介、考試方式、評分標準、其他注意事項 | Teaching course description: Introduction to course content, examination methods, scoring standards, and other matters needing attention | | | |
