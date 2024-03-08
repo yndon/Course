@@ -1,4 +1,4 @@
-|      履歷        |<img src="https://avatars.githubusercontent.com/u/22648375?v=4" width=100 height=100/>|
+|      履歷        |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGn_GjAJIYn1U3ynMkmDUTfi96LgzBw25LlQ&usqp=CAU" width=100 height=100/>|
 | ---------------- |:-----------------------------:|
 | 姓名             | 沈鶴栩                 |
 | 學校             | 高雄科技大學                  |
